@@ -1,0 +1,37 @@
+#buttonSave{
+    -fx-background-color: #5e35b1; 
+    -fx-text-fill: white;
+}
+
+#nim{
+    -fx-background-color: transparent;
+    -fx-border-color: #0598ff;
+    -fx-border-width:0 0 2 0;
+}
+
+#nama{
+    -fx-background-color: transparent;
+    -fx-border-color: #0598ff;
+    -fx-border-width:0 0 2 0;
+}
+
+.label{
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.radio-button{
+    -fx-font-family: "Arial";
+    -fx-text-fill: white;
+}
+
+#Border{
+    -fx-background-color: linear-gradient(to bottom left,#b71c1c,#5e35b1);
+}
+
+#Exit{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-font-size: 15;
+}

@@ -1,0 +1,44 @@
+#box{
+    -fx-background-color:#880e4f;
+}
+#anchor{
+    -fx-background-color: #212121;
+}
+.button{
+    -fx-background-color: #880e4f;
+    -fx-text-fill: white;
+}
+.label{
+    -fx-text-fill:white;
+    -fx-font-size: 13;
+    -fx-font-weigth: bold;
+}
+#upperMenu{
+    -fx-background-color:#263238;
+}
+#Exit{
+    -fx-background-color: red;
+    -fx-background-radius: 5em;
+    -fx-min-width: 8,5px;
+    -fx-min-height: 8.0px;
+    -fx-max-width: 8.5px;
+    -fx-max-height: 8.0px; 
+}
+#Minimize{
+    -fx-background-color:yellow;
+    -fx-background-radius: 5em;
+    -fx-min-width: 8,5px;
+    -fx-min-height: 8.0px;
+    -fx-max-width: 8.5px;
+    -fx-max-height: 8.0px; 
+}
+#menu{
+    -fx-font-size: 15;
+    -fx-font-weigth: bold;
+}
+#addFood{
+    -fx-background-color: transparent;
+    -fx-border-color: #880e4f;
+    -fx-border-width:0 0 4 0;
+    -fx-text-fill: #fafafa;
+}

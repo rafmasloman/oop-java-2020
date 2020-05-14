@@ -1,0 +1,38 @@
+#allField{
+    -fx-background-color: #212121;
+}
+
+#text {
+    -fx-background-color: #ff8f00;
+    -fx-text-fill: white;
+}
+
+#text .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+#text .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+#text .scroll-pane .content{
+    -fx-background-color: #212121;
+}
+
+#exitBtn{
+    -fx-background-color: #b71c1c;
+    -fx-background-radius: 5em;
+   -fx-min-width: 9px;
+    -fx-min-height: 8.5px;
+    -fx-max-width: 9px;
+    -fx-max-height: 8.5px;
+}
+
+#minimizeBtn{
+    -fx-background-color: #eeff41;
+    -fx-background-radius: 5em;
+    -fx-min-width: 9px;
+    -fx-min-height: 8.5px;
+    -fx-max-width: 9px;
+    -fx-max-height: 8.5px;
+}

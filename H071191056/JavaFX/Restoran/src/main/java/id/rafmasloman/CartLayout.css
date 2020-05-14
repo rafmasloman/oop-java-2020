@@ -1,0 +1,41 @@
+.label{
+    -fx-text-fill:white;
+    -fx-font-size: 14;
+    -fx-font-weigth: bold;
+}
+
+#box{
+    -fx-background-color:#880e4f;
+}
+#anchor{
+    -fx-background-color: #212121;
+}
+
+.button{
+    -fx-background-color: #880e4f;
+    -fx-text-fill: white;
+}
+
+#menu{
+    -fx-font-size: 15;
+    -fx-font-weigth: bold;
+}
+#upperMenu{
+    -fx-background-color:#263238;
+}
+#Exit{
+    -fx-background-color: #b71c1c;
+    -fx-background-radius: 5em;
+    -fx-min-width: 8,5px;
+    -fx-min-height: 8.0px;
+    -fx-max-width: 8.5px;
+    -fx-max-height: 8.0px; 
+}
+#Minimize{
+    -fx-background-color:#ffab00;
+    -fx-background-radius: 5em;
+    -fx-min-width: 8,5px;
+    -fx-min-height: 8.0px;
+    -fx-max-width: 8.5px;
+    -fx-max-height: 8.0px; 
+}
